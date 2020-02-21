@@ -1,0 +1,9 @@
+[submodule "bert"]
+	path = bert
+	url = https://github.com/google-research/bert.git
+[submodule "ylilauta-corpus"]
+	path = ylilauta-corpus
+	url = https://github.com/spyysalo/ylilauta-corpus.git
+[submodule "yle-corpus"]
+	path = yle-corpus
+	url = https://github.com/spyysalo/yle-corpus.git
